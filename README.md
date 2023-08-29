@@ -1,0 +1,2 @@
+# sordosGPT
+SordosGPT Chrome Extension
